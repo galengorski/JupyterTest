@@ -1,3 +1,5 @@
 install.packages('neuralnet')
 install.packages('caret')
 install.packages('ggplot2')
+devtools::install_github('IRkernel/IRkernel')
+IRkernel::installspec()
