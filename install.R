@@ -2,5 +2,4 @@ install.packages('rgdal')
 install.packages('caret')
 install.packages('leaps')
 install.packages('neuralnet')
-devtools::install_github('IRkernel/IRkernel')
-IRkernel::installspec()
+
